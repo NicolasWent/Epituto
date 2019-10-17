@@ -14,7 +14,7 @@ Après avoir contribué au(x) tutoriel(s) de quelqu'un, vous pouvez vous ajouter
 La signature doit avoir le même format que pour les auteurs, je vous invite donc à consulter : [Comment signer son tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20signer%20son%20tutoriel.md), ou vous pouvez tout simplement vous inspirer de ceux ci-dessous :
 
 #### Authors
-* nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué ING1/B1
+* nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué GRB1
 
 #### Contributors
 * marile.lin / 2022
