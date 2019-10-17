@@ -19,7 +19,7 @@ Pour que votre tutoriel soit valide il faut respecter quelques règles afin d'é
 * Lorsque dans vos tutoriaux il est nécéssaire de faire un curl (pour installer un programme ou autre), la source du lien vers votre curl doit être vérifier et viable (pas de site yolo.com ou autre).
 * Si vous réaliser un script d'automatisation d'installation, ne mettez pas un lien de "curl" vers ce script mais mettez le dans le dossier scripts de ce depo.
 * Vous devez signer votre tutoriel voir : [Comment signer son tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20signer%20son%20tutoriel.md)
-* Si vous souhaitez contribuer à un tutoriel voir : [Comment signer son tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20contribuer%20%C3%A0%20un%20tutoriel.md)
+* Si vous souhaitez contribuer à un tutoriel voir : [Comment contribuer à un tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20contribuer%20%C3%A0%20un%20tutoriel.md)
 
 #### Authors
 * nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué ING1/B1
