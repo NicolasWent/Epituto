@@ -20,7 +20,7 @@ Pour que votre tutoriel soit valide il faut respecter quelques règles afin d'é
 * Si vous réaliser un script d'automatisation d'installation, ne mettez pas un lien de "curl" vers ce script mais mettez le dans le dossier scripts de ce depo.
 * Vous devez signer votre tutoriel voir : [Comment signer son tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20signer%20son%20tutoriel.md)
 * Si vous souhaitez contribuer à un tutoriel voir : [Comment contribuer à un tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20contribuer%20%C3%A0%20un%20tutoriel.md)
-
+* Veuillez mettre le TAG [FR] quand vous écrivez un tutoriel en français et [ENG] quand vous faites un tutoriel en anglais devant l'intitulé de votre tutoriel afin de séparer les tutoriels français et anglais.
 * Je rappelle qu'il est interdit de partager les fichiers que vous recevez à Epita, les tutoriaux que vous marquer doivent donc être écrit par vous-même.
 * Je rappelle que tout partage de code liée aux exervices est également interdit
 
