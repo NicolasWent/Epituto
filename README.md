@@ -22,8 +22,9 @@ Pour que votre tutoriel soit validé, il faut respecter quelques règles afin d'
 * Si vous souhaitez contribuer à un tutoriel => [Comment contribuer à un tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20contribuer%20%C3%A0%20un%20tutoriel.md)
 * Veuillez mettre le TAG [FR] quand vous écrivez un tutoriel en français et [ENG] quand vous faites un tutoriel en anglais, devant l'intitulé de votre tutoriel afin de séparer les tutoriels français et anglais.
 
-![#f03c15]Je rappelle qu'il est interdit de partager les fichiers que vous recevez de l'Epita, les tutoriels doivent donc être écrits par vous-même.
-![#f03c15]Je rappelle que tout partage de code provenant de vos exercices est strictement interdit.
+Je rappelle qu'il est interdit de partager les fichiers que vous recevez de l'Epita, les tutoriels doivent donc être écrits par vous-même.
+
+Je rappelle que tout partage de code provenant de vos exercices est strictement interdit.
 
 #### Authors
 * nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué GRB1
