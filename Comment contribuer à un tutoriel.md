@@ -15,3 +15,6 @@ La signature doit avoir le même format que pour les auteurs, je vous invite don
 
 #### Authors
 * nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué ING1/B1
+
+#### Contributors
+* marile.lin / 2022
