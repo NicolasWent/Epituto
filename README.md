@@ -25,4 +25,7 @@ Pour que votre tutoriel soit validé, il faut respecter quelques règles afin d'
 * Je rappelle que tout partage de code provenant de vos exercices est strictement interdit.
 
 #### Authors
-* nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué ING1/B1
+* nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué ING1:B1
+
+#### Contributors
+* marile.lin / 2022
