@@ -18,6 +18,8 @@ Pour que votre tutoriel soit valide il faut respecter quelques règles afin d'é
 * Ne pas faire de confloose (ou de tutoriaux sur les confloose), ce git doit rester propre afin que les personnes ne s'y connaissant pas bien ne risquent pas de tomber sur un truc qui va au final casser leur architecture.
 * Lorsque dans vos tutoriaux il est nécéssaire de faire un curl (pour installer un programme ou autre), la source du lien vers votre curl doit être vérifier et viable (pas de site yolo.com ou autre).
 * Si vous réaliser un script d'automatisation d'installation, ne mettez pas un lien de "curl" vers ce script mais mettez le dans le dossier scripts de ce depo.
+* Vous devez signer votre tutoriel voir :
+* Si vous souhaitez contribuer à un tutoriel voir :
 
 
 ### Signer son tutoriel :
