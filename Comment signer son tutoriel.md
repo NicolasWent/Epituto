@@ -12,7 +12,7 @@ Je vous invite également à lire la page suivante : [Markdown](https://guides.g
 Vous pouvez également, si vous le souhaitez, ajouter des informations à votre signature en précisant votre adresse e-mail ainsi que votre psuedo Discord, ce qui donnerait le format suivant :
 
 #### Authors
-* nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué ING1/B1
+* nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué GRB1
 
 #### Contributors
 * marile.lin / 2022
