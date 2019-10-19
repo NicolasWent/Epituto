@@ -36,9 +36,8 @@ Vous pouvez donc créer un fichier ``.gitignore`` dans votre home et y écrire l
 Désormais, l'historique de vos commandes dans gdb est sauvegardé et vous pouvez rappelé vos commandes précédentes ; le tout en gardant votre 
 repository git propre.
 
-
-## Authors
-* cedric.farinazzo / 2022
-
 ## Liens utiles
 * [Ma config GDB](https://github.com/cedricfarinazzo/gdb-config)
+
+#### Authors
+* cedric.farinazzo / 2022
