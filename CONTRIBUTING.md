@@ -91,5 +91,5 @@ Ensuite vous pourrez appliquer les modfications sur votre repository Github :
 git push origin master
 ```
 
-## Auteur
+## Author
 * cedric.farinazzo / 2022
