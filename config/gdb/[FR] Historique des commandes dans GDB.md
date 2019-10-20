@@ -37,5 +37,5 @@ Désormais, l'historique de vos commandes dans gdb est sauvegardé et vous pourr
 ## Liens utiles
 * [Ma config GDB](https://github.com/cedricfarinazzo/gdb-config)
 
-#### Author
+#### Authors
 * cedric.farinazzo / 2022
