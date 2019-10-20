@@ -75,10 +75,10 @@ Git étant un outil qui nous permet de faire du "versionning", si un commit ne p
 
 Après avoir contribué au tutoriel de quelqu'un, vous pouvez vous ajouter dans la liste des Contributeurs. Cette liste est juste en dessous de celle des auteurs, à la fin du fichier. Cette liste doit avoir le format suivant :
 
-#### Contributor
+#### Contributors
 * nicolas.went / 2022
 
 La signature doit avoir le même format que pour les auteurs, je vous invite donc à consulter : [Comment signer son tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20signer%20son%20tutoriel.md).
 
-#### Author
+#### Authors
 * nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué GRB1 
