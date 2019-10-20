@@ -14,7 +14,7 @@ Vous trouverez sur ce depo :
 
 Ce dépo git va fonctionner avec des commits. Ces commits seront ensuite validés par une équipe de modérateurs.
 
-Pour que votre tutoriel soit validé, il faut respecter quelques règles afin d'éviter les problèmes suivants :
+Pour que votre tutoriel soit validé, il faut respecter quelques règles afin d'éviter certains problèmes :
 * Ne pas faire de confloose (ou de tutoriels sur les confloose), ce git doit rester propre afin que les personnes ne s'y connaissant pas bien, ne risquent pas de tomber sur un truc qui va au final "casser" leurs architectures.
 * Il est nécéssaire de faire dans vos tutoriels un curl (pour installer un programme ou autre), tout en sachant que la source du lien vers votre curl doit être vérifiée et viable (pas de site yolo.com ou autre).
 * Si vous réalisez un script d'automatisation d'installation, ne mettez pas un lien de "curl" vers ce script mais mettez le dans le dossier "scripts" de ce depo. Le "curl" vers votre script (si celui-ci ne contient pas de truc bizard), sera ensuite ajouter par les modérateurs. Si vous souhaitez qu'un modérateur ajoute un curl vers votre script, mettez l'endroit où vous souhaitez ajouter le curl dans les balises : [CURL: "Nom du script"], ainsi les modérateurs pourront remplacer le texte entre crocher par la commande de curl vers votre script.
