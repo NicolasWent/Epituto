@@ -1,7 +1,7 @@
 # Contributions à ce repository
 
 Pour rajouter ou modifier des tutoriels, vous devez utiliser github.
-Voici toutes les étapes permettant votre contribution à ce repositoty.
+Voici toutes les étapes permettant votre contribution à ce repository.
 
 Vous avez besoin d'un compte Gihub.
 
