@@ -10,7 +10,7 @@ Vous trouverez sur ce depo :
 * Des guides sur : comment configurer votre session Epita (fond d'écran, configurations de bases ou avancées) ?
 * Des tutoriels écrits par des élèves sur les langages de programmations vu à l'Epita.
 
-## Comment écrire un tutoriel
+## Règlement
 
 Ce dépo git va fonctionner avec des commits. Ces commits seront ensuite validés par une équipe de modérateurs.
 
