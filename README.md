@@ -24,8 +24,8 @@ Pour que votre tutoriel soit validé, il faut respecter quelques règles afin d'
 
 **Je rappelle également que tout partage de code provenant de vos exercices est strictement interdit.**
 
-#### Auteur
+#### Author
 * nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué GRB1
 
-#### Contributeur(s)
+#### Contributor
 * marile.lin / 2022
