@@ -7,7 +7,7 @@
 Bonjour, l'objectif de ce repo git est de permettre aux élèves d'écrire des tutoriels pour d'autres élèves d'Epita afin que ceux qui ont du mal avec l'interface proposé à l'Epita (Arch linux, i3 et afs) puissent trouver de l'aide grâces aux petits tutoriels.
 
 Vous trouverez sur ce depo :
-* Des guides sur : comment configurer votre session Epita (fond d'écran, configurations de bases ou avancées) ?
+* Des guides sur : comment configurer votre session Epita (fond d'écran, configurations de bases ou avancées...)
 * Des tutoriels écrits par des élèves sur les langages de programmations vu à l'Epita.
 
 ## Règlement
