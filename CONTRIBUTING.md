@@ -7,7 +7,7 @@ Vous avez besoin d'un compte Gihub.
 
 ## Forkez ce repository
 
-Il suffit de clique sur le bouton de ``fork`` en haut de la page.
+Il suffit de cliquer sur le bouton de ``fork`` en haut de la page.
 Cela va créer une copie du répertoire sur votre compte.
 
 ## Clonez ce répertoire
@@ -16,7 +16,7 @@ Maintenant, clonez ce répertoire sur votre ordinateur.
 Cliquez sur le bouton ``clone``. Selectionez ``SSH`` ou ``HTTPS``.
 Puis cliquez sur l'icone *copier dans le presse-papier*.
 
-Ouvrez un invite de commande et exécutez les commandes git suivantes :
+Ouvrez une invite de commande et exécutez les commandes git suivantes :
 
 ```
 git clone "l'url que vous venez de copier"
@@ -40,7 +40,7 @@ Le nom de votre branche doit avoir un rapport avec ce que vous voulez apporter.
 
 ## Effectuez vos modifications
 
-Faites vos modifications: ajoutez, mettez à jour des fichiers
+Faites vos modifications: ajoutez, mettez à jour des fichiers.
 
 Faites des commits de temps en temps pour sauvegarder vos modifications :
 
@@ -67,7 +67,7 @@ Un modérateur fusionnera vos modifications avec la branche master de ce projet 
 
 ## Gardez votre repository synchronisé après la fusion de vos modifications
 
-Si vous souhaite recontribuez à Epituto dans le futurs, vous devez suivre les étapes suivantes afin de synchroniser votre repository
+Si vous souhaitez recontribuer à Epituto dans le futur, vous devez suivre les étapes suivantes afin de synchroniser votre repository
 avec celui-ci.
 
 D'abord, basculez sur la branche master
@@ -86,10 +86,10 @@ Pour récupérer les modifications :
 git pull upstream master
 ```
 
-Ensuite vous pouvez appliquer les modfications sur votre repository Github : 
+Ensuite vous pourrez appliquer les modfications sur votre repository Github : 
 ```
 git push origin master
 ```
 
-## Authors
+## Author
 * cedric.farinazzo / 2022
