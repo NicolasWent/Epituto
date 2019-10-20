@@ -1,6 +1,6 @@
 # Description of folder "script"
 
-This folder is created in order for you to put your scripts of automatisation
+This folder is created in order for you to put the scripts required for your tutorials
 here.
 
 In your tutorial you can put this : [CURL: "name of the script from this folder"].
