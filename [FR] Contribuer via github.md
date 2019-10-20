@@ -67,13 +67,13 @@ petit crayon :
 
 ![Contribute](https://i.imgur.com/qfl4XL0.jpg)
 
-Il vous suffit de modifier directement le fichier et ensuite d'en proposer le commit. Dans ce commit vous devez écrire : en quoi vos modifications sont judicieuses. Ensuite ce commit devra être validé par l'équipe de modérateurs avant d'être mis en ligne.
+Il vous suffit de modifier directement le fichier et ensuite d'en proposer le commit. Dans ce commit vous devez écrire en quoi vos modifications sont judicieuses. Ensuite ce commit devra être validé par l'équipe de modérateurs avant d'être mis en ligne.
 
-Pour la suite des opération, c'est pareille que pour la création, il vous suffit de cliquer sur : Commit changes, puis "Create pull request" puis encore une fois "Create pull request".
+Pour la suite des opération, c'est pareille que pour la création, il vous suffit de cliquer sur : "Commit changes", puis "Create pull request" puis encore une fois "Create pull request".
 
 Git étant un outil qui nous permet de faire du "versionning", si un commit ne plaît pas à l'auteur du post ou "casse tout", on peut toujours revenir en arrière.
 
-Après avoir contribué au(x) tutoriel(s) de quelqu'un, vous pouvez vous ajouter dans la liste des Contributeurs. Cette liste est juste en dessous de celle des auteurs, à la fin du fichier. Cette liste doit avoir le format suivant :
+Après avoir contribué au tutoriel de quelqu'un, vous pouvez vous ajouter dans la liste des Contributeurs. Cette liste est juste en dessous de celle des auteurs, à la fin du fichier. Cette liste doit avoir le format suivant :
 
 #### Contributors
 * nicolas.went / 2022
