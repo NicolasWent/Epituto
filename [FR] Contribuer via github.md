@@ -52,8 +52,33 @@ Vous devez optenir ça :
 Une fois cela fait, il vous suffit de remplir les champs du dessous en donnant un titre a votre commit et en expliquant rapidement
 pourquoi il est nécéssaire :
 
-![Propose new file]https://i.imgur.com/kRyt3aC.jpg)
+![Propose new file](https://i.imgur.com/kRyt3aC.jpg)
 
 Une fois cela fait, il vous suffit de cliquer sur le bouton "Propose new file", vous allez être rediriger vers un autre menu
 puis il vous suffit de cliquer sur "Create pull request" puis encore une fois sur "Create pull request" et là c'est bon, vous
 n'avez plus qu'a attendre qu'un modérateur valide votre pull request et l'ajoute sur le repo.
+
+## Contribution a un tutoriel :
+
+Vous pouvez contribuer à un tutoriel pour diverses raisons : Corriger des fautes d'orthographes, ajouter des images, ajouter des précisions...
+
+Pour ce faire, vous pouvez modifier directement le fichier sur Github en ouvrant le fichier à modifier puis en cliquant sur le
+petit crayon :
+
+![Contribute](https://i.imgur.com/qfl4XL0.jpg)
+
+Il vous suffit de modifier directement le fichier et ensuite d'en proposer le commit. Dans ce commit vous devez écrire : en quoi vos modifications sont judicieuses. Ensuite ce commit devra être validé par l'équipe de modérateurs avant d'être mis en ligne.
+
+Pour la suite des opération, c'est pareille que pour la création, il vous suffit de cliquer sur : Commit changes, puis "Create pull request" puis encore une fois "Create pull request".
+
+Git étant un outil qui nous permet de faire du "versionning", si un commit ne plaît pas à l'auteur du post ou "casse tout", on peut toujours revenir en arrière.
+
+Après avoir contribué au(x) tutoriel(s) de quelqu'un, vous pouvez vous ajouter dans la liste des Contributeurs. Cette liste est juste en dessous de celle des auteurs, à la fin du fichier. Cette liste doit avoir le format suivant :
+
+#### Contributors
+* nicolas.went / 2022
+
+La signature doit avoir le même format que pour les auteurs, je vous invite donc à consulter : [Comment signer son tutoriel](https://github.com/NicolasWent/Epituto/blob/master/Comment%20signer%20son%20tutoriel.md).
+
+
+
