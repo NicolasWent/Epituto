@@ -45,7 +45,7 @@ In order for your tutorial to be approved, it MUST follow a few rules in order t
 * you MUST NOT confloose (or tutorials about confloose), this git MUST remain clean in order to protect unexperienced reader from architecture breaks.
 * If a tutorial requires a curl (to install a program or else), you MUST provide the valid source of your "curl" in order to explain and justify it (no broken link).
 * If you provide an installation script, you MUST NOT include a "curl" linking to the script but put it in the "scripts" folder of the repository. The "curl" to your script (if it does not include anything... suspicious), will then be added by the moderators. If you would like a moderator to add a curl to your script, you may include the desired location for your curl in markups :  [CURL: "Script name"], then moderators will swap the quoted text by the curl command to your script.
-* You MUST have read the section: [CONTRIBUTING](https://github.com/NicolasWent/Epituto/blob/master/CONTRIBUTING.md) or, if you struggle with the command lines, you SHOULD use GitHub automatization which are easier, as written in the following tutorial: [Comment contribuer via github] (https://github.com/NicolasWent/Epituto/blob/master/%5BFR%5D%20Contribuer%20via%20github.md)
+* You MUST have read the section: [CONTRIBUTING](https://github.com/NicolasWent/Epituto/blob/master/CONTRIBUTING.md) or, if you struggle with the command lines, you SHOULD use GitHub automatization which are easier, as written in the following tutorial: [Comment contribuer via github](https://github.com/NicolasWent/Epituto/blob/master/%5BFR%5D%20Contribuer%20via%20github.md)
 
 
 **We remind you that it is forbidden to share documents provided by EPITA; tutorials must be written by yourselves.**
