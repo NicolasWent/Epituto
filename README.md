@@ -10,6 +10,10 @@ Vous trouverez sur ce depo :
 * Des guides sur : comment configurer votre session Epita (fond d'écran, configurations de bases ou avancées...)
 * Des tutoriels écrits par des élèves sur les langages de programmations vu à l'Epita.
 
+## Serveur discord
+
+Un serveur discord est disponible sur ce lien, afin que vous puissiez échanger avec les créateurs de tutoriels ou en proposer et plus encore : [Discord](https://discord.gg/UAaaaV).
+
 ## Règlement
 
 Ce dépo git va fonctionner avec des commits. Ces commits seront ensuite validés par une équipe de modérateurs.
@@ -36,6 +40,12 @@ The purpose of this git repository is to enable students to write tutorials for 
 You'll find in this repository:
 * Guides about: how to configure your EPITA session (wallpaper, base and advanced configuration...)
 * Tutorials written by students on the programming languages studied at EPITA.
+
+## Discord server
+
+We got our discord server. This server is createn in order to discuss about tutorials with their creators, be aware of every new tutorials and many more.
+
+Here is the link : [Discord](https://discord.gg/UAaaaV).
 
 ## Rules
 
