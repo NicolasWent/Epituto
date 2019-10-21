@@ -1,6 +1,6 @@
 # Epituto présentation
 
-### The english part is written bellow
+### The english version is written below
 
 ## Introduction
 
@@ -20,12 +20,41 @@ Pour que votre tutoriel soit validé, il faut respecter quelques règles afin d'
 * Si vous réalisez un script d'automatisation d'installation, ne mettez pas un lien de "curl" vers ce script mais mettez le dans le dossier "scripts" de ce depo. Le "curl" vers votre script (si celui-ci ne contient pas de truc... bizard), sera ensuite ajouter par les modérateurs. Si vous souhaitez qu'un modérateur ajoute un curl vers votre script, mettez l'endroit où vous souhaitez ajouter le curl dans les balises : [CURL: "Nom du script"], ainsi les modérateurs pourront remplacer le texte entre crochets par la commande de curl vers votre script.
 * Vous devez avoir lu(e) la section : [CONTRIBUTING](https://github.com/NicolasWent/Epituto/blob/master/CONTRIBUTING.md) ou, si vous avez du mal en ligne de commande, vous pouvez utiliser les automatisations de Github qui sont plus simples, comme écrit dans ce tutoriel : [Comment contribuer via github](https://github.com/NicolasWent/Epituto/blob/master/%5BFR%5D%20Contribuer%20via%20github.md)
 
-**Je rappelle qu'il est interdit de partager les fichiers que vous recevez de l'Epita, les tutoriels doivent donc être écrits par vous-même.**
+**Je rappelle qu'il est interdit de partager les fichiers que vous recevez de l'Epita; les tutoriels doivent donc être écrits par vous-même.**
 
 **Je rappelle également que tout partage de code provenant de vos exercices est strictement interdit.**
+
+
+# English presentation
+
+### The French version is written above
+
+## Introduction
+
+The purpose of this git repository is to enable students to write tutorials for other students from EPITA. This project is dedicated to those struggling with the interface structure offered at EPITA (Arch linux, i3, afs...) in order for them to find help through tutorials.
+
+You'll find in this repository:
+* Guides about: how to configure your EPITA session (wallpaper, base and advanced configuration...)
+* Tutorials written by students on the programming languages studied at EPITA.
+
+## Rules
+
+This git repository will evolve through commits. These commits MUST be validated by a moderating team.
+
+In order for your tutorial to be approved, it MUST follow a few rules in order to avoid issues:
+* you MUST NOT confloose (or tutorials about confloose), this git MUST remain clean in order to protect unexperienced reader from architecture breaks.
+* If a tutorial requires a curl (to install a program or else), you MUST provide the valid source of your "curl" in order to explain and justify it (no broken link).
+* If you provide an installation script, you MUST NOT include a "curl" linking to the script but put it in the "scripts" folder of the repository. The "curl" to your script (if it does not include anything... suspicious), will then be added by the moderators. If you would like a moderator to add a curl to your script, you may include the desired location for your curl in markups :  [CURL: "Script name"], then moderators will swap the quoted text by the curl command to your script.
+* You MUST have read the section: [CONTRIBUTING](https://github.com/NicolasWent/Epituto/blob/master/CONTRIBUTING.md) or, if you struggle with the command lines, you SHOULD use GitHub automatization which are easier, as written in the following tutorial: [Comment contribuer via github] (https://github.com/NicolasWent/Epituto/blob/master/%5BFR%5D%20Contribuer%20via%20github.md)
+
+
+**We remind you that it is forbidden to share documents provided by EPITA; tutorials must be written by yourselves.**
+
+**We remind you that sharing code from your exercises is strictly forbidden.**
 
 #### Authors
 * nicolas.went / 2022 / nicolas.went@epita.fr / Lockface77#8305 / délegué GRB1
 
 #### Contributors
 * marile.lin / 2022
+* iyed.jaziri / 2022 / iyed.jaziri@epita.fr
