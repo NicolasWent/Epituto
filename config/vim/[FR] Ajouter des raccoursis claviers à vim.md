@@ -6,7 +6,7 @@ Le but de ce tutoriel est de vous apprendre les bases pour que vous puissiez
 faire vos propres raccoursis clavier avec vim.
 
 Par exemple pour ma part, j'ai fait un raccoursis clavier pour sauvegarder et
-sauvegarder quitter en cliquand respectivement sur <F2> et <F1> et ces
+sauvegarder quitter en cliquand respectivement sur \<F2\> et \<F1\> et ces
 raccoursis fonctionnent même en mode insertion. Je vous apprendrais comment
 faire ça dans ce tutoriel.
 
@@ -19,7 +19,7 @@ Alors déjà avant de faire un raccoursis clavier, il faut savoir ce que nous
 souhaitons faire.
 
 Par exemple pour sauvegarder lorsque nous sommes en mode insertion, nous
-cliquont sur les touches <ESC> puis nous tapons ':w' puis <entre> puis nous
+cliquont sur les touches \<ESC\> puis nous tapons ':w' puis \<entre\> puis nous
 recliquon sur i pour se remettre en mode insertion.
 
 Ce qui est asser long en soit.
@@ -92,12 +92,12 @@ map <F1> :wq<CR>
 imap <F1> <ESC>:wq<CR>
 ```
 
-* Vous pouvez remarquer que pour le map de <F2> (pour sauvegarder sans quitter)
+* Vous pouvez remarquer que pour le map de \<F2\> (pour sauvegarder sans quitter)
 est défini dans le mode insert et mode normal.
 
 C'est normal, j'ai fait ça afin de différencier lorsque je suis en mode insert
 et en mode normal afin que lorsque je suis en mode insert alors apres avoir
-cliquer sur <F2>, je reste en mode insert. Et même chose pour le mode normal.
+cliquer sur \<F2\>, je reste en mode insert. Et même chose pour le mode normal.
 
 C'est pour sa qu'il est conseiller de définir les 2 séparément.
 
@@ -111,8 +111,8 @@ si vous le faite avec (lorsque vous ètes en bout de ligne).
 déjà dans tous les modes ?`
 
 -> Très bonne question, c'est le cas. Du coup essayer de voir ce qu'il se passe
-lorsque vous commenter (en ajoutant le charactere " devant la ligne) la ligne
-`imap <F1> <ESC>:wq<CR>` et cliquer sur <F1> en mode insert.
+lorsque vous commenter en ajoutant le charactere " devant la ligne
+`imap <F1> <ESC>:wq<CR>` et cliquer sur \<F1\> en mode insert.
 
 Vous allez remarquer que la fenêtre du tutoriel s'ouvre. Ainsi pour éviter que
 cette fenêtre s'ouvre et que sa face bien le ':wq' (sauvegarder et quitter), on
